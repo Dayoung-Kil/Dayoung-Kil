@@ -5,8 +5,7 @@
 <a href = "https://github.com/arittung/github-readme-stats">
    <img align = "center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arittung&layout=compact"/>
 </a>
-<!--[![Dayoung's GitHub stats](ccc)](https://github.com/arittung/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arittung&layout=compact)](https://github.com/arittung/github-readme-stats)
+
 <!--
 **arittung/arittung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
