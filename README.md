@@ -9,7 +9,7 @@
 </a>
 <br>
 
-http://www.fourmilab.ch/cgi-bin/Earth
+
 
 <!--
 **arittung/arittung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
