@@ -5,13 +5,13 @@
 
 <a href = "https://github.com/arittung/github-readme-stats">
   <img align ="center" src = "https://github-readme-stats.vercel.app/api?username=arittung&count_private=true&theme=vue&show_icons=true&hide=prs"/>
+</a><a href = "https://github.com/arittung/github-readme-stats">
+   <img align = "center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arittung&layout=compact"/>
 </a>
+
 <br><br>
 <a href = "https://velog.io/@arittung">
    <img align = "center" src ="https://velog-readme-stats.vercel.app/api?name=arittung"/>
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href = "https://github.com/arittung/github-readme-stats">
-   <img align = "center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arittung&layout=compact"/>
 </a>
 
 
