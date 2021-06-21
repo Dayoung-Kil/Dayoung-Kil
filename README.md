@@ -4,7 +4,7 @@
 <a href = "https://github.com/arittung/github-readme-stats">
   <img align ="center" src = "https://github-readme-stats.vercel.app/api?username=arittung&count_private=true&theme=buefy&show_icons=true&hide=prs"/>
 </a>
-&nbsp&nbsp
+&nbsp
 <a href = "https://github.com/arittung/github-readme-stats">
    <img align = "center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arittung&layout=compact"/>
 </a>
