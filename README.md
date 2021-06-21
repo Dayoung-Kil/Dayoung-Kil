@@ -1,5 +1,7 @@
 ## Dayoung's GitHub :octocat:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farittung&count_bg=%23EA2C62&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F4C7AB&title_bg=%23B2B8A3&icon=&icon_color=%23FFF5EB&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)<br>
+
 
 <a href = "https://github.com/arittung/github-readme-stats">
   <img align ="center" src = "https://github-readme-stats.vercel.app/api?username=arittung&count_private=true&theme=vue&show_icons=true&hide=prs"/>
