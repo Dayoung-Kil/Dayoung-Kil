@@ -8,7 +8,7 @@
 <br>
 
  
-## :full_moon: ME    
+## :full_moon: About Me    
   - 🌱 **Learning** : DeepLearning, Flask, Algorithm.. <br>
   - ⚡ **Major** : AI Convergence 
  <br>
