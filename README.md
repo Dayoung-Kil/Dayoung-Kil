@@ -25,7 +25,7 @@ Baekjoon|Latest velog
 </p> 
 
 
-
+<p align="center">
 <a href = "https://hits.seeyoufarm.com">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F4C7AB&title_bg=%23B2B8A3&icon=&icon_color=%23FFF5EB&title=hits&edge_flat=true"/></a>
 </p> 
