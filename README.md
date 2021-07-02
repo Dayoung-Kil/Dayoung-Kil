@@ -20,10 +20,9 @@
  
 Baekjoon|Latest velog
 ---|---
-<a href = "https://solved.ac/arittung"><img src ="http://mazassumnida.wtf/api/generate_badge?boj=arittung"></a>|<a href = "https://velog.io/@arittung"><img src ="https://velog-readme-stats.vercel.app/api?name=arittung"/></a>
+<a href = "https://solved.ac/arittung"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=arittung"></a>|<a href = "https://velog.io/@arittung"><img src ="https://velog-readme-stats.vercel.app/api?name=arittung"/></a>
 
 </p> 
-
 
 <p align="center">
 <a href = "https://hits.seeyoufarm.com">
