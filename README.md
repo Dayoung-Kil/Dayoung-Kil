@@ -12,9 +12,12 @@
   - 🌱 **Learning** : DeepLearning, Flask, Algorithm.. <br>
   - ⚡ **Major** : AI Convergence 
  <br>
-  
+
+<!--
 ## :pushpin: Experience
 - :bookmark: **Junction X Seoul Hackathon** (2021.5.21-2021.5.23) <br><br>
+-->
+
 ## :bookmark_tabs: Studying
 <p align="center">
  
