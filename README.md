@@ -11,7 +11,7 @@
 
 #### 🌱 Research Interest
 
-<img alt="Html" src ="https://img.shields.io/badge/Efficient Deep Learning-B1BED5?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Computer Vision-BFD8D5?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Vision Transformer-DFDFDF?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Hybrid Architecture-F4F3F3?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Neural Architecture Search-B1BED5?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Image Classification-BFD8D5?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Object Detection-DFDFDF?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Segmentation-F4F3F3?style=for-the-badge"/>
+<img alt="Html" src ="https://img.shields.io/badge/Efficient Deep Learning-B1BED5?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Computer Vision-BFD8D5?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Vision Transformer-DFDFDF?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Hybrid Architecture-F4F3F3?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Neural Architecture Search-9E9FA5?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Image Classification-C4C1A4?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Object Detection-FFF6DC?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Segmentation-FFC6AC?style=flat"/>
 
 
 <br>
