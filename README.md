@@ -1,16 +1,16 @@
 ## :full_moon: About Me
 
-📫 **E-mail** : dayoung.k.ssu@gmail.com
+#### 📫 **E-mail** : dayoung.k.ssu@gmail.com
 
-<br>
 
-### 👩‍🎓 EDUCATION
+
+#### 👩‍🎓 EDUCATION
 
 <img alt="Html" src ="https://img.shields.io/badge/Department of AI Convergence, Soongsil University, Seoul-Bachelor (Feb.2018 ~ Mar.2022)-E4E4D0?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Department of Intelligent Systems, Soongsil University, Seoul-Master (Feb.2022 ~ Mar.2024)-AEC3AE?style=for-the-badge"/>
 
-<br>
 
-### 🌱 **INTEREST**
+
+#### 🌱 **INTEREST**
 
  - **Efficient Deep Learning**
  - Computer Vision
@@ -20,13 +20,12 @@
 
 <br>
 
-## 📜 **PUBLICATION**
+## 📜 **PUBLICATIONS**
 
- - 길다영, 김성흠, “Lightweight Deep Learning for Room Layout Estimation with a Single Panoramic Image,” Journal of Institute of Control, Robotics and Systems 2022
- - 길다영, 김성흠, “Lightweight Room Layout Estimation using a Single Panoramic Image,” ICCAS 2022
- - Deepak Ghimire, Dayoung Kil, Seong-heum Kim, “A Survey on Efficient Convolutional Neural Networks and Hardware Acceleration ,” 
-Electronics 2022 (피인용 횟수 60건 이상)
- - 길다영, 김성흠, “단일 파노라마 입력의 실내 공간 레이아웃 복원 모델 경량화,” C-2022-036602 (소프트웨어등록)
+ - **길다영, 김성흠**, [“Lightweight Deep Learning for Room Layout Estimation with a Single Panoramic Image,”](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002884719) Journal of Institute of Control, Robotics and Systems 2022
+ - **Dayoung Kil and Seong-heum Kim**, [“Lightweight Room Layout Estimation using a Single Panoramic Image,”](https://ieeexplore.ieee.org/document/10003901) ICCAS 2022
+ - **Deepak Ghimire, Dayoung Kil, Seong-heum Kim**, [“A Survey on Efficient Convolutional Neural Networks and Hardware Acceleration,”](https://www.mdpi.com/2079-9292/11/6/945) Electronics 2022 (피인용 횟수 60건 이상)
+ - **길다영, 김성흠**, “단일 파노라마 입력의 실내 공간 레이아웃 복원 모델 경량화,” C-2022-036602 (소프트웨어등록)
 
 <br>
 
