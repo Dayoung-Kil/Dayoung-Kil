@@ -2,7 +2,7 @@
 
 #### 📫 **E-mail** : dayoung.k.ssu@gmail.com
 
-
+<!-- #### 🌠 I’m currently working on Visual Intelligence and Platform Lab, Soongsil University, Seoul -->
 
 #### 👩‍🎓 EDUCATION
 
@@ -64,15 +64,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<!--
 ## :pushpin: Experience
 - :bookmark: **Junction X Seoul Hackathon** (2021.5.21-2021.5.23) <br><br>
--->
 
-
-<!--
 ## :bookmark_tabs: Studying
 <p align="center">
  
@@ -81,8 +76,7 @@ Baekjoon|Latest velog
 <a href = "https://solved.ac/arittung"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=arittung"></a>|<a href = "https://velog.io/@arittung"><img src ="https://velog-readme-stats.vercel.app/api?name=arittung"/></a>
 
 </p> 
--->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=f4c7ab&height=250&section=header&text=Hi,%20%there&fontSize=70&fontColor=ffffff" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=f4c7ab&height=250&section=header&text=Hi,%20%there&fontSize=70&fontColor=ffffff" />
  
 <a href = "https://github.com/arittung/github-readme-stats">
   <img src = "https://github-readme-stats.vercel.app/api?username=arittung&count_private=true&theme=vue&show_icons=true&hide=prs"/></a>
