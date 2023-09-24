@@ -2,7 +2,6 @@
 
 #### 📫 **E-mail** : dayoung.k.ssu@gmail.com
 
-<!-- #### 🌠 I’m currently working on Visual Intelligence and Platform Lab, Soongsil University, Seoul -->
 
 #### 👩‍🎓 EDUCATION
 
