@@ -19,7 +19,7 @@
 
 <br>
 
-## 📜 PUBLICATIONS
+## 📜 Publications
 
 - **길다영, 김성흠**, [“Lightweight Deep Learning for Room Layout Estimation with a Single Panoramic Image,”](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002884719) Journal of Institute of Control, Robotics and Systems 2022
 - **Dayoung Kil and Seong-heum Kim**, [“Lightweight Room Layout Estimation using a Single Panoramic Image,”](https://ieeexplore.ieee.org/document/10003901) ICCAS 2022
@@ -28,7 +28,7 @@
 
 <br>
 
-## 🏆 AWARDS
+## 🏆 Awards
  
 <img alt="Html" src ="https://img.shields.io/badge/숭실 A3+ STAR 코딩 경진대회 (Feb.8 2021)-우수상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/제 11회 숭실 캡스톤디자인 경진대회 (Sep.28 2021)-장려상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/AI융합 경진대회 (Nov.12 2021)-우수상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/졸업논문발표회 (Nov.12 2022)-우수논문상-lightblue?style=for-the-badge"/>
 
@@ -36,7 +36,7 @@
  
 <br>
 
-## 🔭 PROJECTS
+## 🔭 Projects
 
 - [3D Room Reconstruction Using HorizonNet](https://github.com/2021-1-SSU-Computer-Vision/3D_Room_Reconstruction) : HorizonNet 연구 분석 후, 모델을 훈련시키고 직접 촬영한 이미지를 적용하여 3D Room 복원. (2021)
 - [Face Out](https://github.com/2021-1-SSU-CapstoneDesign/Face-Out) : Face Recognition을 통해 지정된 사람을 제외한 다른 사람들의 얼굴을 모자이크 처리하는 웹 서비스 제작. (2021)
@@ -46,7 +46,7 @@
 
 <br>
 
-## 💪 SKILS
+## 💪 Skils
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> 
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
