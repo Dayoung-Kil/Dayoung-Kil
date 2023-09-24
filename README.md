@@ -3,13 +3,13 @@
 #### 📫 E-mail : dayoung.k.ssu@gmail.com
 
 
-#### 👩‍🎓 EDUCATION
+#### 👩‍🎓 Education
 
 <img alt="Html" src ="https://img.shields.io/badge/Department of AI Convergence, Soongsil University, Seoul-Bachelor (Feb.2018 ~ Mar.2022)-E4E4D0?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Department of Intelligent Systems, Soongsil University, Seoul-Master (Feb.2022 ~ Mar.2024)-AEC3AE?style=for-the-badge"/>
 
 
 
-#### 🌱 INTEREST
+#### 🌱 Research Interest
 
 - **Efficient Deep Learning**
 - Computer Vision
