@@ -11,8 +11,12 @@
 
 #### 🌱 Research Interest
 
-<img alt="Html" src ="https://img.shields.io/badge/Efficient Deep Learning-B1BED5?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Computer Vision-BFD8D5?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Vision Transformer-DFDFDF?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Hybrid Architecture-F4F3F3?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Neural Architecture Search-9E9FA5?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Image Classification-C4C1A4?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Object Detection-FFF6DC?style=flat"/> <img alt="Html" src ="https://img.shields.io/badge/Segmentation-FFC6AC?style=flat"/>
+<p align = "center">
+<img alt="Html" src ="https://img.shields.io/badge/Efficient Deep Learning-B1BED5?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Computer Vision-BFD8D5?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Vision Transformer-DFDFDF?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Hybrid Architecture-F4F3F3?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Neural Architecture Search-9E9FA5?style=for-the-badge"/> 
+<br>
+<img alt="Html" src ="https://img.shields.io/badge/Image Classification-C4C1A4?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Object Detection-FFF6DC?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Segmentation-FFC6AC?style=for-the-badge"/>
 
+</p>
 
 <br>
 
@@ -26,7 +30,7 @@
 <br>
 
 ## 🏆 Awards
- 
+
 <img alt="Html" src ="https://img.shields.io/badge/숭실 A3+ STAR 코딩 경진대회 (Feb.8 2021)-우수상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/제 11회 숭실 캡스톤디자인 경진대회 (Sep.28 2021)-장려상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/AI융합 경진대회 (Nov.12 2021)-우수상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/졸업논문발표회 (Nov.12 2022)-우수논문상-lightblue?style=for-the-badge"/>
 
 
@@ -44,11 +48,11 @@
 <br>
 
 ## 💪 Skils
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> 
+ <p align = "center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
 
-
+</p>
 
 
 
