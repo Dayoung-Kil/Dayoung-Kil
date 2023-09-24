@@ -6,8 +6,7 @@
 
 ### 👩‍🎓 EDUCATION
 
- - **[Bachelor]**  Department of AI Convergence, Soongsil University, Seoul
- - **[Master]**   Department of Intelligent Systems, Soongsil University, Seoul
+<img alt="Html" src ="https://img.shields.io/badge/Department of AI Convergence, Soongsil University, Seoul-Bachelor (Feb.2018 ~ Mar.2022)-E4E4D0?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Department of Intelligent Systems, Soongsil University, Seoul-Master (Feb.2022 ~ Mar.2024)-AEC3AE?style=for-the-badge"/>
 
 <br>
 
@@ -33,22 +32,21 @@ Electronics 2022 (피인용 횟수 60건 이상)
 
 ## 🏆 **AWARDS**
  
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
- 숭실 A3+ STAR 코딩 경진대회, AI 모빌리티사업단 of SoongSil University, Korea (Feb.8 2021)
- 
- - [우수상] 숭실 A3+ STAR 코딩 경진대회, AI 모빌리티사업단 of SoongSil University, Korea (Feb.8 2021)
- - [장려상] 제 11회 숭실 캡스톤디자인 경진대회, SoongSil University, Korea (Sep.28 2021)
- - [장려상 ] AI융합 경진대회,SoongSil University School of AI Convergence, Korea (Nov.12 2021)
- - [우수논문상] 졸업논문발표회, SoongSil University School of AI Convergence, Korea (Nov.12 2022)
+<img alt="Html" src ="https://img.shields.io/badge/숭실 A3+ STAR 코딩 경진대회 (Feb.8 2021)-우수상-lightblue?style=for-the-badge"/> 
+<img alt="Html" src ="https://img.shields.io/badge/제 11회 숭실 캡스톤디자인 경진대회 (Sep.28 2021)-장려상-lightblue?style=for-the-badge"/> 
+<img alt="Html" src ="https://img.shields.io/badge/AI융합 경진대회 (Nov.12 2021)-우수상-lightblue?style=for-the-badge"/> 
+<img alt="Html" src ="https://img.shields.io/badge/졸업논문발표회 (Nov.12 2022)-우수논문상-lightblue?style=for-the-badge"/>
 
+
+ 
 <br>
 
 ## 🔭 **PROJECTS**
 
- - [2021, 3D Room Reconstruction Using HorizonNet] HorizonNet 연구 분석 후, 모델을 훈련시키고 직접 촬영한 이미지를 적용하여 3D Room 복원.
- - [2021, Face Out] Face Recognition을 통해 지정된 사람을 제외한 다른 사람들의 얼굴을 모자이크 처리하는 웹 서비스 제작.
- - [2022, Food Calorie Estimation] Food Detection 및 Volume Estimation을 통해, 이미지 내 음식의 칼로리 계산
- - [2023, V Fit] 멀티모달 생성형 AI 기반 가상 헤어 및 의상 피팅 앱 서비스 제작.
+ - [3D Room Reconstruction Using HorizonNet](https://github.com/2021-1-SSU-Computer-Vision/3D_Room_Reconstruction) : HorizonNet 연구 분석 후, 모델을 훈련시키고 직접 촬영한 이미지를 적용하여 3D Room 복원. (2021)
+ - [Face Out](https://github.com/2021-1-SSU-CapstoneDesign/Face-Out) : Face Recognition을 통해 지정된 사람을 제외한 다른 사람들의 얼굴을 모자이크 처리하는 웹 서비스 제작. (2021)
+ - [Food Calorie Estimation](https://github.com/arittung/Food_Calorie_Estimation) : Food Detection 및 Volume Estimation을 통해, 이미지 내 음식의 칼로리 계산 (2022)
+ - [V Fit](https://github.com/VIP-Projects/V-Fit) : 멀티모달 생성형 AI 기반 가상 헤어 및 의상 피팅 [앱 서비스](https://github.com/VIP-Projects/V-Fit-App) 제작. (2023)
 
 
 <br>
