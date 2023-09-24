@@ -2,17 +2,19 @@
 
 📫 **E-mail** : dayoung.k.ssu@gmail.com
 
+<br>
+
 ### 👩‍🎓 EDUCATION
 
- - **[ Bachelor ]**  Department of AI Convergence, Soongsil University, Seoul
- - **[ Master ]**   Department of Intelligent Systems, Soongsil University, Seoul
+ - **[Bachelor]**  Department of AI Convergence, Soongsil University, Seoul
+ - **[Master]**   Department of Intelligent Systems, Soongsil University, Seoul
 
 <br>
 
 ### 🌱 **INTEREST**
 
+ - **Efficient Deep Learning**
  - Computer Vision
- - Efficient Deep Learning
  - Vision Transformer
  - Hybrid Architecture
  - Neural Architecture Search
@@ -30,7 +32,10 @@ Electronics 2022 (피인용 횟수 60건 이상)
 <br>
 
 ## 🏆 **AWARDS**
-
+ 
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+ 숭실 A3+ STAR 코딩 경진대회, AI 모빌리티사업단 of SoongSil University, Korea (Feb.8 2021)
+ 
  - [우수상] 숭실 A3+ STAR 코딩 경진대회, AI 모빌리티사업단 of SoongSil University, Korea (Feb.8 2021)
  - [장려상] 제 11회 숭실 캡스톤디자인 경진대회, SoongSil University, Korea (Sep.28 2021)
  - [장려상 ] AI융합 경진대회,SoongSil University School of AI Convergence, Korea (Nov.12 2021)
