@@ -1,6 +1,6 @@
 ## :full_moon: About Me
 
-#### 📫 **E-mail** : dayoung.k.ssu@gmail.com
+#### 📫 E-mail : dayoung.k.ssu@gmail.com
 
 
 #### 👩‍🎓 EDUCATION
@@ -9,7 +9,7 @@
 
 
 
-#### 🌱 **INTEREST**
+#### 🌱 INTEREST
 
  - **Efficient Deep Learning**
  - Computer Vision
@@ -19,7 +19,7 @@
 
 <br>
 
-## 📜 **PUBLICATIONS**
+## 📜 PUBLICATIONS
 
  - **길다영, 김성흠**, [“Lightweight Deep Learning for Room Layout Estimation with a Single Panoramic Image,”](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002884719) Journal of Institute of Control, Robotics and Systems 2022
  - **Dayoung Kil and Seong-heum Kim**, [“Lightweight Room Layout Estimation using a Single Panoramic Image,”](https://ieeexplore.ieee.org/document/10003901) ICCAS 2022
@@ -28,7 +28,7 @@
 
 <br>
 
-## 🏆 **AWARDS**
+## 🏆 AWARDS
  
 <img alt="Html" src ="https://img.shields.io/badge/숭실 A3+ STAR 코딩 경진대회 (Feb.8 2021)-우수상-lightblue?style=for-the-badge"/> 
 <img alt="Html" src ="https://img.shields.io/badge/제 11회 숭실 캡스톤디자인 경진대회 (Sep.28 2021)-장려상-lightblue?style=for-the-badge"/> 
@@ -39,7 +39,7 @@
  
 <br>
 
-## 🔭 **PROJECTS**
+## 🔭 PROJECTS
 
  - [3D Room Reconstruction Using HorizonNet](https://github.com/2021-1-SSU-Computer-Vision/3D_Room_Reconstruction) : HorizonNet 연구 분석 후, 모델을 훈련시키고 직접 촬영한 이미지를 적용하여 3D Room 복원. (2021)
  - [Face Out](https://github.com/2021-1-SSU-CapstoneDesign/Face-Out) : Face Recognition을 통해 지정된 사람을 제외한 다른 사람들의 얼굴을 모자이크 처리하는 웹 서비스 제작. (2021)
@@ -49,50 +49,14 @@
 
 <br>
 
- 
-<!--
-**arittung/arittung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💪 SKILS
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-## :pushpin: Experience
-- :bookmark: **Junction X Seoul Hackathon** (2021.5.21-2021.5.23) <br><br>
 
-## :bookmark_tabs: Studying
-<p align="center">
- 
-Baekjoon|Latest velog
----|---
-<a href = "https://solved.ac/arittung"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=arittung"></a>|<a href = "https://velog.io/@arittung"><img src ="https://velog-readme-stats.vercel.app/api?name=arittung"/></a>
 
-</p> 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=f4c7ab&height=250&section=header&text=Hi,%20%there&fontSize=70&fontColor=ffffff" />
- 
-<a href = "https://github.com/arittung/github-readme-stats">
-  <img src = "https://github-readme-stats.vercel.app/api?username=arittung&count_private=true&theme=vue&show_icons=true&hide=prs"/></a>
-<a href = "https://github.com/arittung/github-readme-stats">
-   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=arittung&layout=compact&theme=vue"/></a>
- 
-<br>
-
-<a href = "https://solved.ac/arittung"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=arittung"></a>
- 
-
-<p align="center">
-<a href = "https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F4C7AB&title_bg=%23B2B8A3&icon=&icon_color=%23FFF5EB&title=hits&edge_flat=true"/></a>
-</p> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7eca9c&height=200&section=footer" />
---!>
 
 
 
