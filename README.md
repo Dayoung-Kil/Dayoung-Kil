@@ -2,14 +2,14 @@
 
 Here's my [CV](https://arittung.github.io/).
 
-
-### 👩‍🎓 Education
+<!--
+#### 👩‍🎓 Education
 
 <img alt="Html" src ="https://img.shields.io/badge/Department of AI Convergence, Soongsil University, Seoul-Bachelor (Feb.2018 ~ Mar.2022)-E4E4D0?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Department of Intelligent Systems, Soongsil University, Seoul-Master (Feb.2022 ~ Mar.2024)-AEC3AE?style=for-the-badge"/>
 
+-->
 
-
-### 🌱 Research Interest
+#### Research Interest
 
 <p align = "center">
 <img alt="Html" src ="https://img.shields.io/badge/Efficient Deep Learning-B1BED5?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Computer Vision-BFD8D5?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Vision Transformer-DFDFDF?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Hybrid Architecture-F4F3F3?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Neural Architecture Search-9E9FA5?style=for-the-badge"/> 
