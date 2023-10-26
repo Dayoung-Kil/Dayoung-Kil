@@ -43,10 +43,10 @@ Here's my [CV](https://arittung.github.io/).
 
 ## 🔭 Projects
 
-- [3D Room Reconstruction Using HorizonNet](https://github.com/2021-1-SSU-Computer-Vision/3D_Room_Reconstruction) : HorizonNet 연구 분석 후, 모델을 훈련시키고 직접 촬영한 이미지를 적용하여 3D Room 복원. (2021)
-- [Face Out](https://github.com/2021-1-SSU-CapstoneDesign/Face-Out) : Face Recognition을 통해 지정된 사람을 제외한 다른 사람들의 얼굴을 모자이크 처리하는 웹 서비스 제작. (2021)
-- [Food Calorie Estimation](https://github.com/arittung/Food_Calorie_Estimation) : Food Detection 및 Volume Estimation을 통해, 이미지 내 음식의 칼로리 계산 (2022)
-- [V Fit](https://github.com/VIP-Projects/V-Fit) : 멀티모달 생성형 AI 기반 가상 헤어 및 의상 피팅 [앱 서비스](https://github.com/VIP-Projects/V-Fit-App) 제작. (2023)
+- [<b>3D Room Reconstruction Using HorizonNet</b>](https://github.com/2021-1-SSU-Computer-Vision/3D_Room_Reconstruction) : HorizonNet 연구 분석 후, 모델을 훈련시키고 직접 촬영한 이미지를 적용하여 3D Room 복원. (2021)
+- [<b>Face Out</b>](https://github.com/2021-1-SSU-CapstoneDesign/Face-Out) : Face Recognition을 통해 지정된 사람을 제외한 다른 사람들의 얼굴을 모자이크 처리하는 웹 서비스 제작. (2021)
+- [<b>Food Calorie Estimation</b>](https://github.com/arittung/Food_Calorie_Estimation) : Food Detection 및 Volume Estimation을 통해, 이미지 내 음식의 칼로리 계산 (2022)
+- [<b>V Fit</b>](https://github.com/VIP-Projects/V-Fit) : 멀티모달 생성형 AI 기반 가상 헤어 및 의상 피팅 앱 서비스 제작. (2023)
 
 
 <br>
