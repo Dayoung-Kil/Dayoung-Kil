@@ -47,7 +47,7 @@ Here's my [**CV**](https://arittung.github.io/).
 - [<b>Face Out</b>](https://github.com/2021-1-SSU-CapstoneDesign/Face-Out) : Face Recognition을 통해 지정된 사람을 제외한 다른 사람들의 얼굴을 모자이크 처리하는 웹 서비스 제작. (2021)
 - [<b>Food Calorie Estimation</b>](https://github.com/arittung/Food_Calorie_Estimation) : Food Detection 및 Volume Estimation을 통해, 이미지 내 음식의 칼로리 계산 (2022)
 - [<b>V Fit</b>](https://github.com/VIP-Projects/V-Fit) : 멀티모달 생성형 AI 기반 가상 헤어 및 의상 피팅 앱 서비스 제작. (2023)
-
+- [<b>Zero-Shot-Fall-Detection</b>](https://github.com/VIP-Projects/Zero-Shot-Fall-Detection) : 시각-언어 모델을 활용하는 제로샷 낙상 감지 방법론. (2023)
 
 <br>
 
