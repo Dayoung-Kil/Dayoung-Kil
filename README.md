@@ -26,9 +26,9 @@ Here's my [**CV**](https://arittung.github.io/).
 
 ## 📜 Publications
 
-- 길다영, 김성흠, [**“Lightweight Deep Learning for Room Layout Estimation with a Single Panoramic Image,”**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002884719) Journal of Institute of Control, Robotics and Systems 2022
-- Dayoung Kil and Seong-heum Kim, [**“Lightweight Room Layout Estimation using a Single Panoramic Image,”**](https://ieeexplore.ieee.org/document/10003901) ICCAS 2022
-- Deepak Ghimire, Dayoung Kil, Seong-heum Kim, [**“A Survey on Efficient Convolutional Neural Networks and Hardware Acceleration,”**](https://www.mdpi.com/2079-9292/11/6/945) Electronics 2022 (피인용 횟수 60건 이상)
+- 길다영, 김성흠, [**“Lightweight Deep Learning for Room Layout Estimation with a Single Panoramic Image,”**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002884719) Journal of Institute of Control, Robotics and Systems (SCOPUS), 2022
+- Dayoung Kil and Seong-heum Kim, [**“Lightweight Room Layout Estimation using a Single Panoramic Image,”**](https://ieeexplore.ieee.org/document/10003901) International Conference on Control, Automation and Systems, 2022
+- Deepak Ghimire, Dayoung Kil, Seong-heum Kim, [**“A Survey on Efficient Convolutional Neural Networks and Hardware Acceleration,”**](https://www.mdpi.com/2079-9292/11/6/945) Electronics (SCIE), 2022
 - 길다영, 김성흠, “단일 파노라마 입력의 실내 공간 레이아웃 복원 모델 경량화,” **C-2022-036602 (소프트웨어등록)**
 
 <br>
