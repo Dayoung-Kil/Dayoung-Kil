@@ -1,6 +1,6 @@
 ## :full_moon: About Me
 
-Here's my [**CV**](https://arittung.github.io/).
+Here's my [**CV**](https://Dayoung-Kil.github.io/).
 
 <!--
 #### 👩‍🎓 Education
