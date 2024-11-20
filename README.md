@@ -3,6 +3,7 @@
 Here's my [**CV**](https://Dayoung-Kil.github.io/).
 
 <!--
+
 #### 👩‍🎓 Education
 
 <img alt="Html" src ="https://img.shields.io/badge/Department of AI Convergence, Soongsil University, Seoul-Bachelor (Feb.2018 ~ Mar.2022)-E4E4D0?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Department of Intelligent Systems, Soongsil University, Seoul-Master (Feb.2022 ~ Mar.2024)-AEC3AE?style=for-the-badge"/>
@@ -17,12 +18,11 @@ Here's my [**CV**](https://Dayoung-Kil.github.io/).
  <!--
  <img alt="Html" src ="https://img.shields.io/badge/Hybrid Architecture-F4F3F3?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Neural Architecture Search-9E9FA5?style=for-the-badge"/> -->
 <br>
-<img alt="Html" src ="https://img.shields.io/badge/Image Classification-C4C1A4?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Object Detection-FFF6DC?style=for-the-badge"/>  <!--<img alt="Html" src ="https://img.shields.io/badge/Segmentation-FFC6AC?style=for-the-badge"/>-->
-
+<img alt="Html" src ="https://img.shields.io/badge/Image Classification-C4C1A4?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Object Detection-FFF6DC?style=for-the-badge"/>  <!--<img alt="Html" src ="https://img.shields.io/badge/Segmentation-FFC6AC?style=for-the-badge"/>
+-->
 
 </p>
 
-<br>
 <!--
 ## 📜 Publications
 
@@ -30,6 +30,8 @@ Here's my [**CV**](https://Dayoung-Kil.github.io/).
 - Dayoung Kil and Seong-heum Kim, [**“Lightweight Room Layout Estimation using a Single Panoramic Image,”**](https://ieeexplore.ieee.org/document/10003901) International Conference on Control, Automation and Systems, 2022
 - Deepak Ghimire, Dayoung Kil, Seong-heum Kim, [**“A Survey on Efficient Convolutional Neural Networks and Hardware Acceleration,”**](https://www.mdpi.com/2079-9292/11/6/945) Electronics (SCIE), 2022
 - 길다영, 김성흠, “단일 파노라마 입력의 실내 공간 레이아웃 복원 모델 경량화,” **C-2022-036602 (소프트웨어등록)**
+  
+-->
 
 <br>
 
@@ -39,6 +41,7 @@ Here's my [**CV**](https://Dayoung-Kil.github.io/).
 - 제 11회 숭실 캡스톤디자인 경진대회 (Sep.28 2021) : 장려상
 - AI융합 경진대회 (Nov.12 2021) : 우수상
 - 졸업논문발표회 (Nov.12 2022) : 우수논문상
+- 제 1회 자율주행 인공지능 챌린지 (Nov.19 2024) : 최우수상
 
 <!--
 <img alt="Html" src ="https://img.shields.io/badge/숭실 A3+ STAR 코딩 경진대회 (Feb.8 2021)-우수상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/제 11회 숭실 캡스톤디자인 경진대회 (Sep.28 2021)-장려상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/AI융합 경진대회 (Nov.12 2021)-우수상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/졸업논문발표회 (Nov.12 2022)-우수논문상-lightblue?style=for-the-badge"/>
