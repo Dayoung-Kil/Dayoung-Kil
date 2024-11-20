@@ -50,7 +50,7 @@ Here's my [**CV**](https://Dayoung-Kil.github.io/).
  
 <br>
 
-## 🔭 Projects
+## 💻 Projects
 
 - [<b>3D Room Reconstruction Using HorizonNet</b>](https://github.com/2021-1-SSU-Computer-Vision/3D_Room_Reconstruction) : HorizonNet 연구 분석 후, 모델을 훈련시키고 직접 촬영한 이미지를 적용하여 3D Room 복원. (2021)
 - [<b>Face Out</b>](https://github.com/2021-1-SSU-CapstoneDesign/Face-Out) : Face Recognition을 통해 지정된 사람을 제외한 다른 사람들의 얼굴을 모자이크 처리하는 웹 서비스 제작. (2021)
