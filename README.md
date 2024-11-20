@@ -37,11 +37,11 @@ Here's my [**CV**](https://Dayoung-Kil.github.io/).
 
 ## 🏆 Awards
 
-- 숭실 A3+ STAR 코딩 경진대회 (Feb.8 2021) : 우수상
-- 제 11회 숭실 캡스톤디자인 경진대회 (Sep.28 2021) : 장려상
-- AI융합 경진대회 (Nov.12 2021) : 우수상
-- 졸업논문발표회 (Nov.12 2022) : 우수논문상
-- 제 1회 자율주행 인공지능 챌린지 (Nov.19 2024) : 최우수상
+- 숭실 A3+ STAR 코딩 경진대회 (Feb.8 2021) : <b> 우수상 </b>
+- 제 11회 숭실 캡스톤디자인 경진대회 (Sep.28 2021) : <b> 장려상 </b>
+- AI융합 경진대회 (Nov.12 2021) : <b> 우수상 </b>
+- 졸업논문발표회 (Nov.12 2022) : <b> 우수논문상 </b>
+- 제 1회 자율주행 인공지능 챌린지 (Nov.19 2024) : <b> 최우수상 </b>
 
 <!--
 <img alt="Html" src ="https://img.shields.io/badge/숭실 A3+ STAR 코딩 경진대회 (Feb.8 2021)-우수상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/제 11회 숭실 캡스톤디자인 경진대회 (Sep.28 2021)-장려상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/AI융합 경진대회 (Nov.12 2021)-우수상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/졸업논문발표회 (Nov.12 2022)-우수논문상-lightblue?style=for-the-badge"/>
