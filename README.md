@@ -47,6 +47,7 @@ Here's my [**CV**](https://Dayoung-Kil.github.io/).
 <img alt="Html" src ="https://img.shields.io/badge/숭실 A3+ STAR 코딩 경진대회 (Feb.8 2021)-우수상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/제 11회 숭실 캡스톤디자인 경진대회 (Sep.28 2021)-장려상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/AI융합 경진대회 (Nov.12 2021)-우수상-lightblue?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/졸업논문발표회 (Nov.12 2022)-우수논문상-lightblue?style=for-the-badge"/>
 -->
 
+<!--
  
 <br>
 
@@ -58,7 +59,7 @@ Here's my [**CV**](https://Dayoung-Kil.github.io/).
 - [<b>V Fit</b>](https://github.com/VIP-Projects/V-Fit) : 멀티모달 생성형 AI 기반 가상 헤어 및 의상 피팅 앱 서비스 제작. (2023)
 - [<b>Zero-Shot-Fall-Detection</b>](https://github.com/VIP-Projects/Zero-Shot-Fall-Detection) : 시각-언어 모델을 활용하는 제로샷 낙상 감지 방법론. (2023)
 
-
+-->
 <br>
 
 ## 💪 Skils
