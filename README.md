@@ -13,10 +13,7 @@ Here's my [**CV**](https://Dayoung-Kil.github.io/).
 #### Research Interest
 
 <p align = "center">
-<img alt="Html" src ="https://img.shields.io/badge/Efficient Deep Learning-B1BED5?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Computer Vision-BFD8D5?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Vision Transformer-DFDFDF?style=for-the-badge"/> 
- 
- <!--
- <img alt="Html" src ="https://img.shields.io/badge/Hybrid Architecture-F4F3F3?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Neural Architecture Search-9E9FA5?style=for-the-badge"/> -->
+<img alt="Html" src ="https://img.shields.io/badge/Computer Vision-BFD8D5?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Vision Transformer-DFDFDF?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Hybrid Architecture-F4F3F3?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Efficient Deep Learning-B1BED5?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Pruning-9E9FA5?style=for-the-badge"/>
 <br>
 <img alt="Html" src ="https://img.shields.io/badge/Image Classification-C4C1A4?style=for-the-badge"/> <img alt="Html" src ="https://img.shields.io/badge/Object Detection-FFF6DC?style=for-the-badge"/>  <!--<img alt="Html" src ="https://img.shields.io/badge/Segmentation-FFC6AC?style=for-the-badge"/>
 -->
