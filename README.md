@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://Dayoung-Kil.github.io">🌐 Website</a> &nbsp;&middot;&nbsp;
-  <a href="https://literate-dandelion-5ad.notion.site/Dayoung-Kil-24decd6e21c1806fb3b5fa8dacf87a32?source=copy_link">📄 CV</a> &nbsp;&middot;&nbsp;
   <a href="https://scholar.google.com/citations?user=UhhLl8AAAAAJ">🎓 Scholar</a> &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/in/dayoung-kil">💼 LinkedIn</a> &nbsp;&middot;&nbsp;
   <a href="mailto:dayoungkil@soongsil.ac.kr">✉️ Email</a>
