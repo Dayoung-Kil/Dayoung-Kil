@@ -1,7 +1,7 @@
 <h2 align="center">🌕 Efficient Deep Learning &amp; Multimodal AI</h2>
 
 <p align="center">
-  <b>Dayoung Kil</b> &middot; Ph.D. Student, <a href="https://vip.ssu.ac.kr/">VIP Lab</a>, Soongsil University<br>
+  <b>Dayoung Kil</b> &middot; Ph.D. Student, Soongsil University<br>
   Efficient Deep Learning &middot; Model Pruning &middot; Large Vision-Language Models
 </p>
 
