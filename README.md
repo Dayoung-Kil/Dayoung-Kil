@@ -64,16 +64,9 @@ in structured network pruning and lightweight visual perception.
 - **부총리 겸 과학기술정보통신부 장관상** — 2025 자율주행 인공지능 챌린지 (Semantic Segmentation) · 2025.11
 - **최우수상 (IITP 원장상)** — 제1회 자율주행 인공지능 챌린지 · 2024.11
 - **우수논문상** — 졸업논문발표회 (단일 파노라마 기반 실내 레이아웃 경량화) · 2021.11
-
-
-<details>
-<summary>Earlier awards</summary>
-
 - **장려상** — AI융합 경진대회 (*Face Out*) · 2021.11
 - **장려상** — 제11회 숭실 캡스톤디자인 경진대회 (*Face Out*) · 2021.09
 - **우수상** — 숭실 A3+ STAR 코딩 경진대회 · 2021.02
-
-</details>
 
 ---
 
