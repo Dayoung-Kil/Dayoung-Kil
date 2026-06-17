@@ -12,7 +12,7 @@
   <a href="mailto:dayoungkil@soongsil.ac.kr">✉️ Email</a>
 </p>
 
----
+
 
 ### 🧑‍💻 About Me
 
@@ -29,6 +29,9 @@ in structured network pruning and lightweight visual perception.
 - 🌱 Foundations in **structured pruning** & **lightweight architectures**
 - 💬 Happy to chat about anything in **efficient deep learning**
 
+<br>
+
+<!--
 ### 🧐 Research Interests
 
 <p align="center">
@@ -39,7 +42,7 @@ in structured network pruning and lightweight visual perception.
   <code>Computer Vision</code>
 </p>
 
----
+-->
 
 ### 📝 Selected Publications
 
@@ -55,7 +58,7 @@ in structured network pruning and lightweight visual perception.
 
 <sub>Full list on <a href="https://Dayoung-Kil.github.io/publications/">my website</a> and <a href="https://scholar.google.com/citations?user=UhhLl8AAAAAJ">Google Scholar</a>.</sub>
 
----
+<br>
 
 ### 🏆 Awards
 
@@ -63,10 +66,5 @@ in structured network pruning and lightweight visual perception.
   <sub>2026 IEEE Low-Power Computer Vision Challenge · ECV Workshop @ CVPR 2026, Denver · Team *SSUPER_POWER* · sponsored by Qualcomm</sub>
 - **부총리 겸 과학기술정보통신부 장관상** — 2025 자율주행 인공지능 챌린지 (Semantic Segmentation) · 2025.11
 - **최우수상 (IITP 원장상)** — 제1회 자율주행 인공지능 챌린지 · 2024.11
-- **우수논문상** — 졸업논문발표회 (단일 파노라마 기반 실내 레이아웃 경량화) · 2021.11
-- **장려상** — AI융합 경진대회 (*Face Out*) · 2021.11
-- **장려상** — 제11회 숭실 캡스톤디자인 경진대회 (*Face Out*) · 2021.09
-- **우수상** — 숭실 A3+ STAR 코딩 경진대회 · 2021.02
 
----
 
